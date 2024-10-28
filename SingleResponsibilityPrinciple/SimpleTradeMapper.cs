@@ -23,6 +23,6 @@ namespace SingleResponsibilityPrinciple
             return trade;
         }
 
-        private static float LotSize = 100000f;
+        private static float LotSize = 1000f;
     }
 }
